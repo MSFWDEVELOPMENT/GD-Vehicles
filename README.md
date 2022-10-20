@@ -10,7 +10,7 @@ ensure GD-Vehicles
 ```
 
 add this in: [qb] > `qb-core > shared > vehicles.lua`
-```lua
+```
 ['bmwm8'] = {
     ['name'] = 'BMWM8',
     ['brand'] = 'BMW',
@@ -109,4 +109,5 @@ add this in: [qb] > `qb-core > shared > vehicles.lua`
     ['category'] = 'GodsDevelopment',
     ['hash'] = `urusbeastedit`,
     ['shop'] = 'pdm',
-},```
+},
+```
