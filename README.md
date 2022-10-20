@@ -2,6 +2,7 @@
 PREVIEW - https://youtu.be/c1yHUa9f9as
 
 If you're having issues please Contact in GodsDevelopment Discord
+Our Discord - https://discord.gg/G9EppYKaBw
 
 ```
 ensure GD-Vehicles
@@ -110,4 +111,3 @@ add this in: [qb] > `qb-core > shared > vehicles.lua`
 },
 ```
 
-Our Discord - https://discord.gg/G9EppYKaBw
