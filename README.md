@@ -1,7 +1,6 @@
 
 PREVIEW - https://youtu.be/c1yHUa9f9as
 
-This script supports automatic installation of vehicles to vehicles.lua with newer Server
 If you're having issues please Contact in GodsDevelopment Discord
 
 ```
