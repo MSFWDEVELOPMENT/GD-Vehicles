@@ -1,7 +1,3 @@
-<p><a href="https://discord.gg/V6PD44awSR%22%3EGodsDevelopment(DISCORD)</a></p>
-Our Discord
-
-
 This script supports automatic installation of vehicles to vehicles.lua with newer Server
 If you're having issues please Contact in GodsDevelopment Discord
 
