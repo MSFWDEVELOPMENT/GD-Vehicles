@@ -107,3 +107,6 @@ add this in: [qb] > `qb-core > shared > vehicles.lua`
     ['shop'] = 'pdm',
 },
 ```
+
+<p><a href="https://discord.gg/V6PD44awSR%22%3E"GodsDevelopment(DISCORD)</a></p>
+Our Discord
