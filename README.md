@@ -108,5 +108,4 @@ add this in: [qb] > `qb-core > shared > vehicles.lua`
 },
 ```
 
-<p><a href="https://discord.gg/V6PD44awSR%22%3E"GodsDevelopment(DISCORD)</a></p>
-Our Discord
+Our Discord - https://discord.gg/G9EppYKaBw
