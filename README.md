@@ -109,5 +109,14 @@ add this in: [qb] > `qb-core > shared > vehicles.lua`
     ['hash'] = `urusbeastedit`,
     ['shop'] = 'pdm',
 },
+['oycdefender'] = {
+    ['name'] = 'RANGE ROVER DEFENDER',
+    ['brand'] = 'RANGE ROVER',
+    ['model'] = 'DEFENDER',
+    ['price'] = 4000, --edit this
+    ['category'] = 'GodsDevelopment',
+    ['hash'] = `oycdefender`,
+    ['shop'] = 'pdm',
+},
 ```
 
