@@ -118,5 +118,23 @@ add this in: [qb] > `qb-core > shared > vehicles.lua`
     ['hash'] = `oycdefender`,
     ['shop'] = 'pdm',
 },
+['xg632019'] = {
+    ['name'] = 'MERCEDES AMG G63',
+    ['brand'] = 'MERCEDES',
+    ['model'] = 'AMG G63',
+    ['price'] = 4000, --edit this
+    ['category'] = 'GodsDevelopment',
+    ['hash'] = `xg632019`,
+    ['shop'] = 'pdm',
+},
+['812leggera'] = {
+    ['name'] = 'FERRARI 812',
+    ['brand'] = 'FERARRI',
+    ['model'] = '812 LEGGERA',
+    ['price'] = 4000, --edit this
+    ['category'] = 'GodsDevelopment',
+    ['hash'] = `812leggera`,
+    ['shop'] = 'pdm',
+},
 ```
 
