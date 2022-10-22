@@ -136,5 +136,14 @@ add this in: [qb] > `qb-core > shared > vehicles.lua`
     ['hash'] = `812leggera`,
     ['shop'] = 'pdm',
 },
+['lwhuracan'] = {
+    ['name'] = 'LAMBORGHINI HURACAN',
+    ['brand'] = 'LAMBORGHINI',
+    ['model'] = 'LIBERTY WALK HURACAN',
+    ['price'] = 4000, --edit this
+    ['category'] = 'GodsDevelopment',
+    ['hash'] = `lwhuracan`,
+    ['shop'] = 'pdm',
+},
 ```
 
